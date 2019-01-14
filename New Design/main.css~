@@ -1,0 +1,10 @@
+/*CSS of design.html file */
+
+#myImage{
+	background-image: url(img/wallpaper.jpg) center no-repeat;
+	background-color: red;
+}
+
+h1 {
+	color: red;
+}
